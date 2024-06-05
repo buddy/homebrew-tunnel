@@ -2,15 +2,15 @@
 
 ## How do I install these formulae?
 
-`brew install buddy/tunnel/<formula>`
+`brew install buddy/tunnel/buddy-tunnel`
 
-Or `brew tap buddy/tunnel` and then `brew install <formula>`.
+Or `brew tap buddy/tunnel` and then `brew install buddy-tunnel`.
 
 Or, in a [`brew bundle`](https://github.com/Homebrew/homebrew-bundle) `Brewfile`:
 
 ```ruby
 tap "buddy/tunnel"
-brew "<formula>"
+brew "buddy-tunnel"
 ```
 
 ## Documentation
