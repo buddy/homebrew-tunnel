@@ -1,9 +1,9 @@
 class BuddyTunnelDev < Formula
   desc "Buddy tunnel cli"
   homepage "https://buddy.works"
-  url "https://es.buddy.works/tunnel/dev/1.4.5/darwin-arm64.tar.gz"
-  sha256 "5c36d55be3b2600b6df183fba2356020ec684e8f878661f48ffa056a2193a89b"
-  version "1.4.5"
+  url "https://es.buddy.works/tunnel/dev/1.4.6/darwin-arm64.tar.gz"
+  sha256 "c1119c167a6c9667117fb8d7e2bd33ced0e01e70b0edce99f84fc3b57dc5a5aa"
+  version "1.4.6"
   def install
     bin.install "buddy-tunnel"
   end
